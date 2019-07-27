@@ -15,3 +15,19 @@ def pop_with_args (array)
   string2 = array.pop
   [string2, string1]
 end
+
+def using_shift (array)
+  array.shift
+end
+
+def shift_with_args (array)
+  string1 = array.shift
+  string2 = array.shift
+  [string1, string2]
+end
+
+
+
+
+
+
